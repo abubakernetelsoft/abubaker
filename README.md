@@ -6,7 +6,7 @@
 
 <p dir="auto">I'm;</p>
 <ul dir="auto">
-<li>an Android developer from Turkey,</li>
+<li>an Android developer from Pakistan,</li>
 <li>currently learning <a href="https://flutter.dev/" rel="nofollow">Flutter</a>.</li>
 </ul>
 
